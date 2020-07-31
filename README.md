@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/ajinkyapuar/ajinkyapuar/blob/master/header.gif">
 
 
-<h2> Hey there! I'm Ajinkya.</h2>
+<h1> Hey there! I'm Ajinkya.</h1>
 
 <!-- <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 loring new technologies and developing software solutions and quick hacks.
@@ -36,7 +36,7 @@ loring new technologies and developing software solutions and quick hacks.
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C#](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -62,7 +62,7 @@ loring new technologies and developing software solutions and quick hacks.
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ajinkyapuar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajinkyapuar&theme=dracula&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyapuar&theme=dracula&layout=compact" />
 </a>
@@ -71,10 +71,13 @@ loring new technologies and developing software solutions and quick hacks.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<!-- <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ajinkyapuar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p> -->
+<p align="center">
+<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+
+<a href="https://www.linkedin.com/in/ajinkyapuar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ajinkyapuar-black?style=flat-square&logo=LinkedIn&color=282a36"></a>
+
+<a href="https://www.twitter.com/ajinkyapuar/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ajinkyapuar-black?style=flat-square&logo=Twitter&color=282a36"></a>
+
+<a href="mailto:puar.ajinkya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-puar.ajinkya@gmail.com-black?style=flat-square&logo=gmail&color=282a36"></a>
+</p>
 
