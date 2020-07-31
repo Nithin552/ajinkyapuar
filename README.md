@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img src="https://github.com/ajinkyapuar/ajinkyapuar/blob/master/header.gif">
+<p align="center">
+  <img src="https://github.com/ajinkyapuar/ajinkyapuar/blob/master/header.gif">
+</p>
