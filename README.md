@@ -63,8 +63,8 @@ loring new technologies and developing software solutions and quick hacks.
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajinkyapuar&theme=buefy&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyapuar&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajinkyapuar&theme=dracula&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyapuar&theme=dracula&layout=compact" />
 </a>
 
 <br/>
