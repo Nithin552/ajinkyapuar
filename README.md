@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="./header.gif">
+<img src="https://github.com/ajinkyapuar/ajinkyapuar/blob/master/header.gif">
