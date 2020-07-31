@@ -74,10 +74,10 @@ loring new technologies and developing software solutions and quick hacks.
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 
-<a href="https://www.linkedin.com/in/ajinkyapuar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ajinkyapuar-black?style=flat-square&logo=LinkedIn&color=282a36"></a>
+<a href="https://www.linkedin.com/in/ajinkyapuar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ajinkyapuar-black?style=flat-square&logo=LinkedIn&color=282a36"></a>
 
-<a href="https://www.twitter.com/ajinkyapuar/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ajinkyapuar-black?style=flat-square&logo=Twitter&color=282a36"></a>
+<a href="https://www.twitter.com/ajinkyapuar/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ajinkyapuar-black?style=flat-square&logo=Twitter&color=282a36"></a>
 
-<a href="mailto:puar.ajinkya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-puar.ajinkya@gmail.com-black?style=flat-square&logo=gmail&color=282a36"></a>
+<a href="mailto:puar.ajinkya@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-puar.ajinkya@gmail.com-black?style=flat-square&logo=gmail&color=282a36"></a>
 </p>
 
