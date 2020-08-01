@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h1> Hey there! I'm Ajinkya.</h1>
 
 <!-- <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-loring new technologies and developing software solutions and quick hacks.
+Exloring new technologies
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
@@ -72,7 +72,7 @@ loring new technologies and developing software solutions and quick hacks.
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<!-- <a href="#/"><img alt="Website" src="https://img.shields.io/badge/Website-{URL}-blue?style=flat-square&logo=google-chrome"></a> -->
 
 <a href="https://www.linkedin.com/in/ajinkyapuar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ajinkyapuar-black?style=flat-square&logo=LinkedIn&color=282a36"></a>
 
